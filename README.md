@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Juancwb
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Kotlin
-- 📫 Reach me at: https://www.linkedin.com/in/juan-carlo-ramos/
+- 📫 [Linkedin](https://www.linkedin.com/in/juan-carlo-ramos/)
