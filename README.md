@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Juancwb
 - 👀 I’m interested in Mobile/Web Development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP/Laravel
 - 📫 [Linkedin](https://www.linkedin.com/in/juan-carlo-ramos/)
